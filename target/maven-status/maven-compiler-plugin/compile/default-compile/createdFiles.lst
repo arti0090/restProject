@@ -1,0 +1,9 @@
+pl\sda\javaldz6\config\RestWebConfig.class
+pl\sda\javaldz6\model\User.class
+pl\sda\javaldz6\UserController.class
+pl\sda\javaldz6\service\UserServiceAnnotationSingleton.class
+pl\sda\javaldz6\config\WebConfig.class
+pl\sda\javaldz6\service\UserServiceAnnotationPrototype.class
+pl\sda\javaldz6\service\UserService.class
+pl\sda\javaldz6\UserRestController.class
+pl\sda\javaldz6\service\UserRestService.class

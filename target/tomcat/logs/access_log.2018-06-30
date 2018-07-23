@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [30/Jun/2018:14:03:22 +0200] "GET /app HTTP/1.1" 302 - http-bio-8085-exec-1 0
+0:0:0:0:0:0:0:1 - - [30/Jun/2018:14:03:23 +0200] "GET /app/ HTTP/1.1" 200 190 http-bio-8085-exec-3 624
+0:0:0:0:0:0:0:1 - - [30/Jun/2018:14:03:23 +0200] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8085-exec-4 0
+0:0:0:0:0:0:0:1 - - [30/Jun/2018:14:03:28 +0200] "GET /app/users HTTP/1.1" 200 229 http-bio-8085-exec-5 475
+0:0:0:0:0:0:0:1 - - [30/Jun/2018:14:03:31 +0200] "GET /app/searchUsers HTTP/1.1" 404 949 http-bio-8085-exec-6 22
+0:0:0:0:0:0:0:1 - - [30/Jun/2018:14:03:33 +0200] "GET /app/addUser HTTP/1.1" 404 949 http-bio-8085-exec-9 3
+0:0:0:0:0:0:0:1 - - [30/Jun/2018:14:03:44 +0200] "GET /app/users HTTP/1.1" 200 229 http-bio-8085-exec-10 18
+0:0:0:0:0:0:0:1 - - [30/Jun/2018:14:22:29 +0200] "GET /app/ HTTP/1.1" 200 190 http-bio-8085-exec-1 74
+0:0:0:0:0:0:0:1 - - [30/Jun/2018:14:22:32 +0200] "GET /app/addUser HTTP/1.1" 500 6047 http-bio-8085-exec-2 995
+0:0:0:0:0:0:0:1 - - [30/Jun/2018:14:25:03 +0200] "GET /app/addUser HTTP/1.1" 200 859 http-bio-8085-exec-1 248
+0:0:0:0:0:0:0:1 - - [30/Jun/2018:14:26:05 +0200] "POST /app/saveUser HTTP/1.1" 404 949 http-bio-8085-exec-3 11
+0:0:0:0:0:0:0:1 - - [30/Jun/2018:14:27:44 +0200] "POST /app/saveUser HTTP/1.1" 404 949 http-bio-8085-exec-5 3
